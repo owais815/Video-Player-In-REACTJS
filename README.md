@@ -2,6 +2,10 @@
 ## Project Description
 This project is a custom video player built using ReactJS and Vite. The video player features essential controls such as play/pause, volume control, progress tracking, and a reset button. It incorporates modern web development practices and leverages Tailwind CSS for styling. This project serves as a practical implementation of several fundamental and advanced ReactJS concepts, making it a useful reference for developers looking to build similar applications.
 
+
+## Live Link:
+[Vercel](https://video-player-in-reactjs.vercel.app/)
+
 ## Concepts Covered
 In this project, the following concepts have been covered:
 
